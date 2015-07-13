@@ -22,4 +22,4 @@
 
 [벽에서 마시멜로를 한 움큼 떼어내어 축구를 한다](soccer/soccer.md)?
 
-[불을 지핀다](fire/fire.md)
+[물을 붓는다](water/water.md)
